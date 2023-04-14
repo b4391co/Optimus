@@ -1,2 +1,4 @@
 # Optimus
-Windows Optimizer script
+# Windows Optimizer script
+
+Version gaming
